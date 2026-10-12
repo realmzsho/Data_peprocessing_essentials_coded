@@ -38,8 +38,3 @@ The notebook walks through the most critical stages of the data preprocessing pi
 * **Scikit-Learn** (For scaling and encoding)
 
 ---
-
-## 💡 How to Use
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
